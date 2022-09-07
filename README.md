@@ -69,9 +69,10 @@ MEDIAN:
 
 NON NULL AFTER:
 ![](./8.png)
+
 ![](./9.png)
 
-#RESULT:
+# RESULT:
 Thus the given data is read,cleansed and cleaned data is saved into the file. 
 
 
