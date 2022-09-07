@@ -58,6 +58,22 @@ NON NULL BEFORE:
 
 ![](./2.png)
 
+MODE:
+![](./5.png)
+
+MEAN:
+![](./6.png)
+
+MEDIAN:
+![](./7.png)
+
+NON NULL AFTER:
+![](./8.png)
+![](./9.png)
+
+#RESULT:
+Thus the given data is read,cleansed and cleaned data is saved into the file. 
+
 
 
 
