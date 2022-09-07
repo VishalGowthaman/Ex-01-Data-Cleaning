@@ -49,11 +49,13 @@ df.isnull().sum()
 # OUTPUT
 
 DATA:
+
 ![OUTPUT](./1.png)
 ![OUTPUT](./3.png)
 ![OUTPUT](./4.png)
 
 NON NULL BEFORE:
+
 ![](./2.png)
 
 
