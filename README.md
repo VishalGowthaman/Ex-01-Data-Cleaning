@@ -47,3 +47,6 @@ df.info()
 df.isnull().sum()
 ```
 # OUTPUT
+
+DATA:
+!(./1.png)
