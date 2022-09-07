@@ -49,4 +49,4 @@ df.isnull().sum()
 # OUTPUT
 
 DATA:
-!(./1.png)
+![OUTPUT](./1.png)
